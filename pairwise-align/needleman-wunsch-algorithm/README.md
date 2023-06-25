@@ -2,6 +2,8 @@
 
 # 1. Summary 
 
+The Needleman-Wunsch algorithm is often used to perform pairwise, global sequence alignment. 
+
 needleman-wunsch.py reads in two DNA sequences stored in a FASTA file, computes global alignments, and returns the optimal alignment.
 Traceback preference = diagonal > upward > leftward traceback.
 Scoring scheme is defined by the user upon execution.
