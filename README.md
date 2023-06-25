@@ -1,5 +1,3 @@
-# computational-biology
-
 # Sequence alignment tools 
 1.  **Pairwise** sequence alignment algorithms
    a. **Local** alignment: Smith-Waterman algorithm
