@@ -1,8 +1,8 @@
-# gibbs.py
+# gibbs_sampler.py
 
 #### 1. To run program from command line:
 ```
-python3 gibbs.py < [input FASTA] > [output file]
+python3 gibbs_sampler.py < input.fasta > output.txt
 ```
 where [input FASTA] is any FASTA-formatted file containing multiple sequences. 
 
