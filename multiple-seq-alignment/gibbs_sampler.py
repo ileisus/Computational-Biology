@@ -1,6 +1,6 @@
 """
 Performs multiple sequence alignment and motif discovery using 
-Gibbs sample methods. 
+Gibbs sampling methods. 
 """
 
 import sys
