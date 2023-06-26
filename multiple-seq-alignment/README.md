@@ -4,7 +4,7 @@
 ```
 python3 gibbs_sampler.py < input.fasta > output.txt
 ```
-where [input FASTA] is any FASTA-formatted file containing multiple sequences. 
+where [input.fasta] is any FASTA-formatted file containing multiple sequences. 
 
 #### 2. Program overview:
 gibbs.py
