@@ -1,9 +1,9 @@
 # gibbs.py
 
 #### 1. To run program from command line:
-'''
+```
 python3 gibbs.py < [input FASTA] > [output file]
-'''
+```
 where [input FASTA] is any FASTA-formatted file containing multiple sequences. 
 
 #### 2. Program overview:
